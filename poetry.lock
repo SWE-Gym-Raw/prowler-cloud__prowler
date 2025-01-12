@@ -718,17 +718,17 @@ uvloop = ["uvloop (>=0.15.2)"]
 
 [[package]]
 name = "boto3"
-version = "1.35.93"
+version = "1.35.96"
 description = "The AWS SDK for Python"
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "boto3-1.35.93-py3-none-any.whl", hash = "sha256:7de2c44c960e486f3c57e5203ea6393c6c4f0914c5f81c789ceb8b5d2ba5d1c5"},
-    {file = "boto3-1.35.93.tar.gz", hash = "sha256:2446e819cf4e295833474cdcf2c92bc82718ce537e9ee1f17f7e3d237f60e69b"},
+    {file = "boto3-1.35.96-py3-none-any.whl", hash = "sha256:e6acb2380791b13d8fd55062d9bbc6e27c3ddb3e73cff71c4ca02e6743780c67"},
+    {file = "boto3-1.35.96.tar.gz", hash = "sha256:bace02ef2181d176cedc1f8f90c95c301bb7c555db124cf80bc193cbb52a7c64"},
 ]
 
 [package.dependencies]
-botocore = ">=1.35.93,<1.36.0"
+botocore = ">=1.35.96,<1.36.0"
 jmespath = ">=0.7.1,<2.0.0"
 s3transfer = ">=0.10.0,<0.11.0"
 
@@ -4670,4 +4670,4 @@ test = ["big-O", "importlib-resources", "jaraco.functools", "jaraco.itertools", 
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.9,<3.13"
-content-hash = "1519976072f2f8bb91cd93201d92a2b18ce582c3fd09ea928715ce5e657f9e81"
+content-hash = "caab31e411e116c079234c4d761ebdfd7f6ac0ec70731d10dce0c6141b4820d2"
