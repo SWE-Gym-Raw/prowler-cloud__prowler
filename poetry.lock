@@ -2403,13 +2403,13 @@ files = [
 
 [[package]]
 name = "microsoft-kiota-abstractions"
-version = "1.6.8"
+version = "1.9.0"
 description = "Core abstractions for kiota generated libraries in Python"
 optional = false
-python-versions = "<4.0,>=3.8"
+python-versions = "<4.0,>=3.9"
 files = [
-    {file = "microsoft_kiota_abstractions-1.6.8-py3-none-any.whl", hash = "sha256:12819dee24d5aaa31e99683d938f65e50cbc446de087df244cd26c3326ec4e15"},
-    {file = "microsoft_kiota_abstractions-1.6.8.tar.gz", hash = "sha256:7070affabfa7182841646a0c8491cbb240af366aff2b9132f0caa45c4837dd78"},
+    {file = "microsoft_kiota_abstractions-1.9.0-py3-none-any.whl", hash = "sha256:965ce6e08c47d64645dcb72f43c495809d6e65dab8fd04c5db1daa0bdb191e00"},
+    {file = "microsoft_kiota_abstractions-1.9.0.tar.gz", hash = "sha256:0da7ccedf0769e36543d3b07b72b4e1b05d627d62f46eb6e3444a84cbcce79dc"},
 ]
 
 [package.dependencies]
@@ -5199,4 +5199,4 @@ type = ["pytest-mypy"]
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.9,<3.13"
-content-hash = "bdf88464d220566a806755ca6380e41a90225c32716ab1542a979ca2b1f55265"
+content-hash = "fa509d9f947c573da9f7734fc3125adacfa88d1765798bd3b011de61d3d13e99"
